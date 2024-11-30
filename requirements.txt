@@ -1,0 +1,10 @@
+fastapi
+pydantic
+sqlalchemy
+xgboost
+scikit-learn
+celery
+redis
+alembic
+pyflink
+uvicorn
